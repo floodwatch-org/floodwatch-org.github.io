@@ -1,7 +1,7 @@
-title: Flood Watch
+title: FloodWatch
 description: A Flood Analysis and Prediction Application
 
-url: https://floodwatch-org.github.io/floodwatch.github.io/
+url: https://floodwatch-org.github.io/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -15,20 +15,22 @@ paginate: 5
 
 navigation:
   - title: Home
-    url: /index.html
+    url: /
+  - title: Blog
+    url: /blog
   - title: About
     url: /about
   - title: Contact
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: floodwatch-org
+  # twitter: -
+  # facebook: -
+  email: todo@gmail.com
+  # linkedin: -
 
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: floodwatch-org

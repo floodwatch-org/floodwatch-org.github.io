@@ -1,13 +1,13 @@
 ---
 layout: default
-title: About Long Haul
+title: About FloodWatch
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
+	<h1 class="pageTitle">What is FloodWatch?</h1>
+	<img src="{{ '/assets/img/floodwatchappdesign.png' }}" alt="">
+	<p class="intro">FloodWatch is a mobile application focused on flood forecasting and alerting in Ho Chi Minh City and other cities throughut Vietnam</p>
+	<p>Leveraging both research and user-sourced data, FloodWatch is able to identify areas of high-risk flooding.</p>
 	<h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FloodWatch
+title: Blog FloodWatch
 ---
 
 <div class="home" id="home">
