@@ -1,77 +1,29 @@
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <title>{{ page.title }}</title>
+        
+    <!-- Metadata, OpenGraph and Schema.org -->
+    {% include metadata.html %}
 
-    <!-- Open Graph Meta -->
-    <meta content="{{ site.title }}" property="og:site_name">
-    {%- if page.title -%}
-      <meta content="{{ page.title }}" property="og:title">
-    {%- else -%}
-      <meta content="{{ site.title }}" property="og:title">
-    {%- endif -%}
-    {%- if page.title -%}
-      <meta content="article" property="og:type">
-    {%- else -%}
-      <meta content="website" property="og:type">
-    {%- endif -%}
-    {%- if page.description -%}
-      <meta content="{{ page.description }}" property="og:description">
-    {%- else -%}
-      <meta content="{{ site.description }}" property="og:description">
-    {%- endif -%}
-    {%- if page.url -%}
-      <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {%- endif -%}
-    {%- if page.date -%}
-      <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-      <meta content="{{ site.url }}/about/" property="article:author">
-    {%- endif -%}
-    {%- if page.image -%}
-      <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
-    {%- else -%}
-      <meta content="{{ '/assets/img/vietnamflooding.png' | prepend: site.url }}" property="og:image">
-    {%- endif -%}
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@{{ site.bootstrap.version }}/dist/css/bootstrap.min.css" rel="stylesheet" integrity="{{ site.bootstrap.integrity.css }}" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@{{ site.mdb.version }}/css/mdb.min.css" integrity="{{ site.mdb.integrity.css }}" crossorigin="anonymous" />
 
-    <!-- Twitter Cards -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@{{ site.social.twitter }}">
-    <meta name="twitter:creator" content="@{{ site.social.twitter }}">
-    {%- if page.title -%}
-      <meta name="twitter:title" content="{{ page.title }}">
-    {%- else -%}
-      <meta name="twitter:title" content="{{ site.title }}">
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@{{ site.fontawesome.version }}/css/all.min.css" integrity="{{ site.fontawesome.integrity }}" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@{{ site.academicons.version }}/css/academicons.min.css" integrity="{{ site.academicons.integrity }}" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/{{ site.highlight_theme }}.css" />
+
+    <!-- Styles -->
+    {% if site.icon != empty -%}
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>">
+    {%- endif %}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+    {%- if site.enable_darkmode %}
+
+    <!-- Dark Mode -->
+    <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
     {%- endif -%}
-    {%- if page.url -%}
-      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-    {%- endif -%}
-    {%- if page.description -%}
-      <meta name="twitter:description" content="{{ page.description }}">
-    {%- else -%}
-      <meta name="twitter:description" content="{{ site.description }}">
-    {%- endif -%}
-    {%- if page.image -%}
-      <meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.image }}">
-    {%- else -%}
-      <meta name="twitter:image:src" content="{{ '/assets/img/vietnamflooding.png' | prepend: site.url }}">
-    {%- endif -%}
-
-
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico" />
-
-    <!-- Come and get me RSS readers -->
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
-    
-    <!-- Stylesheet -->
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <!--[if IE 8]><link rel="stylesheet" href="/assets/css/ie.css"><![endif]-->
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-
-    <!-- Modernizr -->
-    <script src="/assets/js/modernizr.custom.15390.js"" type="text/javascript"></script>
-
-    {%- if site.google_analytics -%} {%- include google_analytics.html -%} {%- endif -%}
-</head>
