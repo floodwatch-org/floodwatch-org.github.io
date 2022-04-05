@@ -5,7 +5,7 @@ main:
     url: /about/
   - title: "Collaboration"
     url: /collaboration/
-  - title: "Staff"
+  - title: "People"
     url: /staff/
   - title: "Use Floodwatch"
     url: https://floodwatch.netlify.app/

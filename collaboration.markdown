@@ -6,7 +6,7 @@ title: Contact Long Haul
 <div id="contact">
   <h1 class="pageTitle">Contact Us</h1>
   <div class="contactContent">
-    <p class="intro">Researcher interested collaborating with us? Fill out your information here and we'll get back to you!</p>
+    <p class="intro">Are you a researcher interested collaborating with us? Fill out your information here and we'll get back to you!</p>
     <!-- <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
     <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p> -->
   </div>
@@ -15,6 +15,8 @@ title: Contact Long Haul
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
     <input type="email" id="email" name="_replyto" class="full-width"><br>
+    <label for="university">University</label>
+    <input type="university" id="email" name="university" class="full-width"><br>
     <label for="message">Message</label>
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
     <input type="submit" value="Send" class="button">
