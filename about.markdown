@@ -6,10 +6,10 @@ title: About FloodWatch
 <div class="post">
 	<h1 class="pageTitle">What is FloodWatch?</h1>
 
-    <p class="intro">FloodWatch is a mobile application focused on flood forecasting and alerting in Ho Chi Minh City and other cities throughut Vietnam</p>
-    <p>Leveraging both research and user-sourced data, FloodWatch is able to identify areas of high-risk flooding.</p>
+    <p class="intro">FloodWatch is a mobile application focused on flood forecasting and alerting in Ho Chi Minh City and other cities throughut Vietnam. Leveraging both research and user-sourced data, FloodWatch is able to identify areas of high-risk flooding.</p>
     <img src="{{ '../floodwatchappdesign.png' }}" alt="">
-    <h2>Features</h2>
+
+    <h2>A Deeper Look</h2>
 
     <ul>
     	<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
