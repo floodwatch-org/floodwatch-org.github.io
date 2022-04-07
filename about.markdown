@@ -7,21 +7,21 @@ title: About FloodWatch
 	<h1 class="pageTitle">What is FloodWatch?</h1>
 
     <p class="intro">FloodWatch is a mobile application focused on flood forecasting and alerting in Ho Chi Minh City and other cities throughut Vietnam. Leveraging both research and user-sourced data, FloodWatch is able to identify areas of high-risk flooding.</p>
-    <img src="{{ '../floodwatchappdesign.png' }}" alt="">
+    <img src="{{ '../floodwatchappdesign.png' }}" alt=""><br/>
 
-    <h2>A Deeper Look</h2>
+
+    <h1>A Deeper Look</h1>
 
     <ul>
-    	<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
+    	<h2>The workflow</h2>
+    	<li>A consumer facing phone and webapp is made for users to monitor and report floods at their location in Ho Chi Min City</li>
 
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+    	<h2>Technology Used</h2>
+
+  		<li>AWS Lambda for machine learning processing and handling of requests</li>
+  		<li>AWS Relational Database Service (RDS) for storing historical readings and predictions by location</li>
+  		<li>React Native for consumer facing application</li>
+		<li>Mapbox for rendering overlays with flood data and user reports on a map interface</li>
+  		
   	</ul>
 </div>
