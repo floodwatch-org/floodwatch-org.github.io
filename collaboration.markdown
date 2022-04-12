@@ -4,6 +4,10 @@ title: Contact Long Haul
 ---
 
 <div id="contact">
+  <h1>Join the Floodwatch initiative</h1>
+  <p>By working with us, you will be contributing to solving a pressing problem that affects millions in Vietnam. We are working with a lot of data and though there is availability, there is always the need for more resources as well as help on orchestrating and fine tuning our data pipeline. If you are capable of providing new data resources that are relevant to Ho Chi Min City or are able to offer suggestions on how to organize data through a pipeline, your help would be greatly appreciated and you will be listed as a collaborator in this project.</p>
+  <p>Furthermore, we are taking efforts to reach out to more stakeholders. If you are a part of or know of organizations that would be interested in partnering with us, please contact us.</p>
+
   <h1 class="pageTitle">Contact Us</h1>
   <div class="contactContent">
     <p class="intro">Are you a researcher interested collaborating with us? Fill out your information here and we'll get back to you!</p>
