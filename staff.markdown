@@ -9,50 +9,49 @@ title: Staff
     
     <div>
         <img class="img" src="{{ '../richNguyen.jpeg' }}" alt="">
-        <h4>Professor Rich Nguyen</h4>
+        <h3>Professor Rich Nguyen</h3>
         <p>Project Lead</p>
     </div>
-
+    <br/>
     <div>
-        <img class="img" src="{{ '../KhoiDao.png' }}" alt="">
-        <h4>Khoi Dao</h4>
+        <img class="img" src="{{ '../KhoiDao.png' }}" alt="" width="200" height="200">
+        <h3>Khoi Dao</h3>
         <p>Collaborator at HCMUS</p>
     </div>
-
+    <br/>
     <div>
         <img class="img" src="{{ '../ThoNguyen.jpeg' }}" alt="">
-        <h4>Tho Nguyen</h4>
+        <h3>Tho Nguyen</h3>
         <p>Program Manager at NAS</p>
     </div>
-
+    <br/>
     <div>
         <img class="img" src="{{ '../ThuyNguyen.jpeg' }}" alt="">
-        <h4>Thuy Nguyen</h4>
+        <h3>Thuy Nguyen</h3>
         <p>Research Assistant at HCMUS</p>
     </div>
-
+    <br/>
     <h2>Undergraduate Research Assistants</h2>
     <div>
         <img class="img" src="{{ '../ChristianJung.jpeg' }}" alt="">
-        <h4>Christian Jung</h4>
+        <h3>Christian Jung</h3>
         <p>BSCS '22 at UVa</p>
     </div>
-
     <div>
         <img class="img" src="{{ '../AdrielKim.jpeg' }}" alt="">
-        <h4>Adriel Kim</h4>
+        <h3>Adriel Kim</h3>
         <p>BSCS '22 at UVa</p>
     </div>
-
+    <br/>
     <div>
-        <img class="img" src="{{ '../AdrielKim.jpeg' }}" alt="">
-        <h4>Ankit Gupta</h4>
+        <img class="img" src="{{ '../AnkitGupta.png' }}" alt="" width="200" height="200">
+        <h3>Ankit Gupta</h3>
         <p>BSCS '23 at UVa</p>
     </div>
-
+    <br/>
     <div>
         <img class="img" src="{{ '../AdrielKim.jpeg' }}" alt="">
-        <h4>Abhir Karande</h4>
+        <h3>Abhir Karande</h3>
         <p>BSCS '24 at UVa</p>
     </div>
 
