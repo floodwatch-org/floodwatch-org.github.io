@@ -12,7 +12,7 @@ You will find the actual webapp tool at `https://floodwatch.netlify.app/`.
 
 <h2>NSF Funded Project</h2>
 <img src="{{ 'NSF_logo.png' }}" alt="" style="width:100px;height:100px;" align="right">
-In 2020, this project earned an NSF grant of over $250,000. This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria. For more information about the grande visit <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026050&HistoricalAwards=false">here</a>
+In 2020, this project earned an NSF grant of over $250,000. This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria. For more information about the grant visit <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026050&HistoricalAwards=false">here</a>
 
 <h2>Collaboration with Vietnam</h2>
 Our project also partners with H/o Chi Minh City Department of Science and Technology. The recommended strategy is once we have developed a pilot app, our partner will convene a demo with city government agencies to get their buy in and input.

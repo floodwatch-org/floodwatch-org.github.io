@@ -57,7 +57,7 @@ title: Staff
     </div>
     <br/>
     <div>
-        <img class="img" src="{{ '../AdrielKim.jpeg' }}" alt="">
+        <img class="img" src="{{ '../AbhirKarande.jpg' }}" alt="" width="200" height="200">
         <h3>Abhir Karande</h3>
         <h4>BSCS '24 at UVa</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque commodo odio odio, semper feugiat felis pharetra et. Suspendisse nec arcu id justo ullamcorper sollicitudin. Proin tincidunt mattis euismod. Ut id sem sollicitudin, efficitur lorem sed, pharetra velit. Praesent at eleifend augue.</p>
