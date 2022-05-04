@@ -40,27 +40,27 @@ title: Staff
         <img class="img" src="{{ '../ChristianJung.jpeg' }}" alt="">
         <h3>Christian Jung</h3>
         <h4>BSCS '22 at UVa</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque commodo odio odio, semper feugiat felis pharetra et. Suspendisse nec arcu id justo ullamcorper sollicitudin. Proin tincidunt mattis euismod. Ut id sem sollicitudin, efficitur lorem sed, pharetra velit. Praesent at eleifend augue.</p>
+        <p>Christian is a 4th year undergraduate studying computer science and is the project manager on the Floodwatch team. He was one of the original members of the team and helped build the earliest prototype. After graduation, he will be joining Microsoft as a Software Engineer</p>
     </div>
     <div>
         <img class="img" src="{{ '../AdrielKim.jpeg' }}" alt="">
         <h3>Adriel Kim</h3>
         <h4>BSCS '22 at UVa</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque commodo odio odio, semper feugiat felis pharetra et. Suspendisse nec arcu id justo ullamcorper sollicitudin. Proin tincidunt mattis euismod. Ut id sem sollicitudin, efficitur lorem sed, pharetra velit. Praesent at eleifend augue.</p>
+        <p>Adriel is a Computer Science student at the University of Virginia. He leads the front-end and API development for the FloodWatch application. He is passionate about developing software for immediate, real-world problems. On his free time, he enjoys fishing and the outdoors.</p>
     </div>
     <br/>
     <div>
         <img class="img" src="{{ '../AnkitGupta.png' }}" alt="" width="200" height="200">
         <h3>Ankit Gupta</h3>
         <h4>BSCS '23 at UVa</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque commodo odio odio, semper feugiat felis pharetra et. Suspendisse nec arcu id justo ullamcorper sollicitudin. Proin tincidunt mattis euismod. Ut id sem sollicitudin, efficitur lorem sed, pharetra velit. Praesent at eleifend augue.</p>
+        <p>Ankit is an undergrdaute majoring in Computer Science with a minor in Applied Mathematics in the School of Engineering. In free time, he watches movies, listens to music, and tries new restaurants. Outside of that, his hobbies include exporling new cities and taking photos of nature.</p>
     </div>
     <br/>
     <div>
         <img class="img" src="{{ '../AbhirKarande.jpg' }}" alt="" width="200" height="200">
         <h3>Abhir Karande</h3>
         <h4>BSCS '24 at UVa</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque commodo odio odio, semper feugiat felis pharetra et. Suspendisse nec arcu id justo ullamcorper sollicitudin. Proin tincidunt mattis euismod. Ut id sem sollicitudin, efficitur lorem sed, pharetra velit. Praesent at eleifend augue.</p>
+        <p>Abhir is an Computer Science student in the School of Engineering. He has interest and experience in machine learning and consumer facing app development. In his free time he enjoys climbing and playing the guitar.</p>
     </div>
 
 </div>
