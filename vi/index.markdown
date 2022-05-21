@@ -4,6 +4,7 @@
 layout: home
 title: "Chào mừng bạn đến với Floodwatch"
 lang: vi
+lang-ref: homepage
 ---
 
 <h1>Welcome to Floodwatch</h1>

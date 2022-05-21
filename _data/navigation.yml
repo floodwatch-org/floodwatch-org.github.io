@@ -2,7 +2,7 @@
 # pages in order as they should show up.
 main:
   - title: "A Deeper Look"
-    url: /about/
+    url: en/about/
   - title: "Collaboration"
     url: /collaboration/
   - title: "People"
