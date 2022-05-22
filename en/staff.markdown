@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: page
 title: Staff
+lang: en
+lang-ref: staff
 ---
 
 <div class="post">

@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: page
 title: Contact Long Haul
+lang: en
+lang-ref: collab
 ---
 
 <div id="contact">
