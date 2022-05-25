@@ -3,6 +3,8 @@
 languages:
   - language: "en"
     links:
+      - title: "Home"
+        url: en/
       - title: "A Deeper Look"
         url: en/about/
       - title: "Collaboration"
@@ -13,6 +15,8 @@ languages:
         url: https://floodwatch.netlify.app/
   - language: "vi"
     links:
+      - title: "Trang Chủ"
+        url: vi/
       - title: "Một cái nhìn sâu sắc hơn"
         url: vi/about/
       - title: "Sự hợp tác"
