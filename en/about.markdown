@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: About FloodWatch
 lang: en
+lang-ref: about
 ---
 
 <div class="post">

@@ -4,6 +4,7 @@
 layout: home
 title: "Welcome to Floodwatch"
 lang: en
+lang-ref: homepage
 ---
 
 <h1>Welcome to Floodwatch</h1>

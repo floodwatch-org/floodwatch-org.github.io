@@ -1,0 +1,20 @@
+# If you want to link only specific pages in your header, add the path to the
+# pages in order as they should show up.
+main:
+  - title: "A Deeper Look"
+    url: en/about/
+  - title: "Collaboration"
+    url: en/collaboration/
+  - title: "People"
+    url: en/staff/
+  - title: "Use Floodwatch"
+    url: https://floodwatch.netlify.app/
+  # vi:
+  #   - title: "Một cái nhìn sâu sắc hơn"
+  #     url: vi/about/
+  #   - title: "Sự hợp tác"
+  #     url: vi/collaboration/
+  #   - title: "Mọi người"
+  #     url: vi/staff/
+  #   - title: "Sử dụng Floodwatch"
+  #     url: https://floodwatch.netlify.app/
