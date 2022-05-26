@@ -12,7 +12,7 @@ layout: compress
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script>
         $(function () {
-                var userLang = navigator.language || navigator.userLanguage;
+                var userLang = navigator.language;
                 if ((userLang[0] == "vi")) {
                     window.location.href = "{{ site.url }}/vi/"
                 }
