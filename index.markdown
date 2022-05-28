@@ -5,6 +5,8 @@ layout: home
 title: "Welcome to Floodwatch"
 ---
 
+<a href="https://floodwatch--home-netlify-app.translate.goog/en/?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=en&_x_tr_pto=wapp">Vietnamese</a>
+
 <h1>Welcome to Floodwatch</h1>
 <img src="{{ 'favicon.PNG' }}" alt="" style="width:100px;height:100px;" align="left">
 The aim of this project is to provide a secured, distributed data infrastructure allowing data owners to share data effortlessly and securely, while concurrently allowing data users to access data on-demand. The data infrastructure is to underpin disaster response and decision support applications. The new focus on flood forecasting and alert is recommended by our collaborator in Vietnam. There is strong interest for this service since urban flooding is a regular challenge in HCMC.
