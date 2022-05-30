@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: default
 title: Contact Long Haul
-lang: en
-lang-ref: collab
 ---
 
 <a href="https://floodwatch--home-netlify-app.translate.goog/en/?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=en&_x_tr_pto=wapp"><img src="{{ '../vi.jpg' }}" alt="" style="width:55px;height:35px;"></a>
