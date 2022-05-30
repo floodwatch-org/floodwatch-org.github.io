@@ -5,10 +5,13 @@ lang: en
 lang-ref: staff
 ---
 
+<a href="https://floodwatch--home-netlify-app.translate.goog/en/?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=en&_x_tr_pto=wapp"><img src="{{ '../vi.jpg' }}" alt="" style="width:55px;height:35px;"></a>
+
 <div class="post">
-	<h1 class="pageTitle">Meet the Team</h1>
+
+    <h1 class="pageTitle">Meet the Team</h1>
     <h2>Leadership</h2>
-    
+
     <div>
         <img class="img" src="{{ '../richNguyen.jpeg' }}" alt="">
         <h3>Professor Rich Nguyen</h3>
