@@ -3,13 +3,17 @@ layout: default
 title: About FloodWatch
 ---
 
+<a href="https://floodwatch--home-netlify-app.translate.goog/en/?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=en&_x_tr_pto=wapp"><img src="{{ '../vi.jpg' }}" alt="" style="width:55px;height:35px;"></a>
+
 <div class="post">
-	<h1 class="pageTitle">What is FloodWatch?</h1>
+
+    <h1 class="pageTitle">What is FloodWatch?</h1>
     <h1>A Deeper Look</h1>
     <p class="intro">FloodWatch is a mobile application focused on flood forecasting and alerting in Ho Chi Minh City and other cities throughut Vietnam. Leveraging both research and user-sourced data, FloodWatch is able to identify areas of high-risk flooding.</p>
     <img src="{{ '../floodwatchappdesign.png' }}" alt=""><br/>
     <h2>Technology Used</h2>
-	<ul>
+    <ul>
+
   	<li>AWS Lambda for machine learning processing and handling of requests</li>
   	<li>AWS Relational Database Service (RDS) for storing historical readings and predictions by location</li>
   	<li>React Native for consumer facing application</li>

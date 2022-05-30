@@ -3,6 +3,8 @@ layout: default
 title: Contact Long Haul
 ---
 
+<a href="https://floodwatch--home-netlify-app.translate.goog/en/?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=en&_x_tr_pto=wapp"><img src="{{ '../vi.jpg' }}" alt="" style="width:55px;height:35px;"></a>
+
 <div id="contact">
   <h1>Join the Floodwatch initiative</h1>
   <p>By working with us, you will be contributing to solving a pressing problem that affects millions in Vietnam. We are working with a lot of data and though there is availability, there is always the need for more resources as well as help on orchestrating and fine tuning our data pipeline. If you are capable of providing new data resources that are relevant to Ho Chi Minh City or are able to offer suggestions on how to organize data through a pipeline, your help would be greatly appreciated and you will be listed as a collaborator in this project.</p>
