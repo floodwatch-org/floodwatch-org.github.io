@@ -3,7 +3,8 @@ layout: default
 title: Contact Long Haul
 ---
 
-<a href="https://floodwatch--home-netlify-app.translate.goog/en/?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=en&_x_tr_pto=wapp"><img src="{{ '../vi.jpg' }}" alt="" style="width:55px;height:35px;"></a>
+<a href="https://floodwatch-home.netlify.app/collaboration"><img src="{{ '../us.png' }}" alt="" style="width:55px;height:35px;"></a>
+<a href="https://floodwatch--home-netlify-app.translate.goog/collaboration?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=en&_x_tr_pto=wapp"><img src="{{ '../vi.jpg' }}" alt="" style="width:55px;height:35px;"></a>
 
 <div id="contact">
   <h1>Join the Floodwatch initiative</h1>
